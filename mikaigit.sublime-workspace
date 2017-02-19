@@ -1,0 +1,806 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"order",
+				"orderId"
+			],
+			[
+				"text",
+				"textarea"
+			],
+			[
+				"is",
+				"is_has"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"store",
+				"store_id"
+			],
+			[
+				"attr",
+				"attr_id"
+			],
+			[
+				"arrau",
+				"array_unique"
+			],
+			[
+				"type",
+				"type_id"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"order_s",
+				"order_sn"
+			],
+			[
+				"or",
+				"Order"
+			],
+			[
+				"M",
+				"Model"
+			],
+			[
+				"goods",
+				"goods_name"
+			],
+			[
+				"data",
+				"data-id"
+			],
+			[
+				"input",
+				"input_number"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"tie",
+				"title"
+			],
+			[
+				"product",
+				"product_number"
+			],
+			[
+				"Sh",
+				"ShopGoodsProduct"
+			],
+			[
+				"sup",
+				"supMap"
+			],
+			[
+				"Su",
+				"SupermarketOrderGoods"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"super",
+				"supermarket_id"
+			],
+			[
+				"no",
+				"Notice"
+			],
+			[
+				"No",
+				"Notice"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"ass",
+				"assign"
+			],
+			[
+				"crea",
+				"created_at"
+			],
+			[
+				"fora",
+				"foreach	foreach …"
+			],
+			[
+				"fon",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "a.php",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 110.0,
+		"last_filter": "php",
+		"selected_items":
+		[
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Run CSScomb"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"git:",
+				"Git: Init"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"\\",
+				"Emmet: Split\\Join Tag"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"colorsubl",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"color",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"colorsub",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"script",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: insp",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/wamp/www/luwk/mikaigit"
+	],
+	"file_history":
+	[
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/E/wamp/bin/apache/apache2.4.9/conf/extra/httpd-vhosts.conf",
+		"/E/wamp/www/luwk/luwkconf/新建文本文档.txt",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/wap/my_bindPhone.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/wap/index.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/wap/my_newAddress.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/wap/supermarket.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/wap/my_apply.html",
+		"/E/wamp/www/luwk/mikaiblog/index.php",
+		"/E/wamp/www/luwk/mikaiblog/haha.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/wap/swp.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Api/Controller/ShareController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Common/Common/function.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Api/Controller/UserController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Api/Model/UserModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Api/Model/ShopOrderInfoModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Api/Model/StoreOrderModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Controller/OrderController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Api/Controller/ShopController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Framework/Library/Think/Upload.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Controller/LayoutController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/Layout/center.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/StoreApply/index.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/StoreApply/view.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Api/Controller/SchoolController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Api/Model/SchoolDormitoryModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/School/import.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Controller/SchoolController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Template/Order/index.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Template/Order/view.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Controller/PurchaseController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Model/SupermarketOrderModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Template/Purchase/index.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Template/Order/edit.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Model/SupermarketOrderModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Template/Layout/south.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Model/ShopOrderGoodsModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Template/Purchase/order.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/ShopGoods/add.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Controller/ShopGoodsController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Template/Layout/south.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Model/SupermarketModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Controller/SupermarketController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/Supermarket/view.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Template/Layout/center.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Model/SupermarketModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Controller/ShopOrderInfoController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Controller/JKBackendController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Controller/StoreApplyController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/ShopGoods/edit.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/ShopGoods/view.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/ShopGoods/add - 副本.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Model/ShopAttributeModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Model/ShopGoodsAttrModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Model/ShopGoodsModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Api/Controller/StoreController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Template/Notice/index.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Template/Layout/north.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Controller/NoticeController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Template/Notice/index.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Api/Model/UserAddressListModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Api/Model/StoreModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Frontend/Model/StoreOrderModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Frontend/Model/ShopOrderInfoModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Controller/JKStoreController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Model/NoticeModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Template/Purchase/selectGoods.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Model/StorePurchaseModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Public/Backend/js/jquery.easyui.jkcms.js",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Public/Store/js/jquery.easyui.jkcms.js",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Model/SupermarketOrderGoodsModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Template/Layout/datagrid.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Model/SupermarketGoodsModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/TopicPost/add.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/TicketPackage/edit.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/TicketPackage/add.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/Supermarket/edit.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/ShopCategory/add.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/User/edit.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/User/add.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/Article/edit.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/Article/add.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/Gift/add.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/CouponCategory/add.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/TopicCategory/add.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/TopicPost/edit.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Template/Store/edit.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Conf/config.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Conf/config.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/ShopOrderInfo/edit.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/ShopGoods/index.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Template/Layout/east.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Template/StoreAccount/edit.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/ShopGoods/datagrid.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Template/Purchase/order.html.mine",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Public/Backend/js/backend.js",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Public/Supermarket/js/store.js",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Public/Store/js/store.js",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/Notice/orderNotice.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/Notice/viewNotice.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/Notice/index.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Public/Common/jeasyui/jquery.easyui.min.js",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Common/Model/NoticeModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Common/Model/NoticeRelationModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Template/Layout/datagrid.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/Notice/view.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Controller/ShopGoodsProductController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/StoreCashApply/applyEdit.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Model/NoticeModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/Notice/add.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Controller/NoticeController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Template/Notice/view.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Template/Notice/view.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Controller/NoticeController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Conf/menu.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Template/Layout/north.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Conf/menu.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Model/NoticeModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/Layout/north.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/Layout/south.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Template/Layout/west.html",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Controller/OrderController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Store/Model/StoreOrderModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Controller/JKSupermarketController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Model/ShopOrderInfoModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Supermarket/Controller/ShopOrderController.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Model/ShopOrderInfoModel.class.php",
+		"/E/wamp/www/luwk/loveschool/Code/JKCMS/Jingkai/Backend/Model/StoreOrderActionModel.class.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Supermarket\\Controller",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Api\\Controller",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Supermarket\\Controller",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Supermarket\\Template\\Layout",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Supermarket",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Backend",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Store",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Supermarket",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Supermarket\\Controller",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Supermarket",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Api",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Frontend",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Frontend\\Controller",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Supermarket\\Controller",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Store\\Controller",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Backend\\Controller",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Api\\Controller",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Store",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Backend",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Backend\\Template",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Backend",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Supermarket\\Template",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Api\\Controller",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Frontend",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Supermarket\\Controller",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Store\\Controller",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Backend\\Controller",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Backend\\Template",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Backend",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Backend\\Template",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Api\\Controller",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Frontend",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Api",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Api\\Model",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Framework",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Api",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Api\\Controller",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Store\\Template\\Purchase",
+			"E:\\wamp\\www\\luwk\\loveschool\\Code\\JKCMS\\Jingkai\\Backend\\Template"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mkblog",
+			"Project",
+			"jingkaigz",
+			"loveschool",
+			"ss",
+			"alias",
+			"Supermarket",
+			"display-window",
+			"btn_register",
+			"red-green",
+			"recList",
+			"98c6a9",
+			"swiper-slide",
+			"recList",
+			"\n                    <a href=\"\"><img src=\"images/01-li-icon3.png\" alt=\"\">Slide 1</a>\n                    <a href=\"\"><img src=\"images/01-li-icon3.png\" alt=\"\">Slide 1</a>",
+			"\n                    <a href=\"\"><img src=\"images/01-li-icon3.png\" alt=\"\">Slide 1</a>\n                    <a href=\"\"><img src=\"images/01-li-icon3.png\" alt=\"\">Slide 1</a>\n                    <a href=\"\"><img src=\"images/01-li-icon3.png\" alt=\"\">Slide 1</a>",
+			"\n                    <a href=\"\"><img src=\"images/01-li-icon3.png\" alt=\"\">Slide 1</a>\n                    <a href=\"\"><img src=\"images/01-li-icon3.png\" alt=\"\">Slide 1</a>",
+			"slide",
+			"Slide",
+			"swiper-container",
+			"swiper.min",
+			"优惠券",
+			"礼品",
+			"send_message",
+			"注册",
+			"findPassword",
+			"shopowner",
+			"send_message",
+			"sourceUrl",
+			"ShareContent",
+			"send_notice",
+			"上传",
+			"团队信息",
+			"phpversion",
+			"getListBySchoolId",
+			"SchoolDormitory",
+			">\n",
+			" width=\"75%\"",
+			"printtable",
+			"打印",
+			"view",
+			"remark",
+			"store_note",
+			"store_node",
+			"$_post",
+			"createOrder",
+			"content",
+			"action_node",
+			"actionNode",
+			"field",
+			"Field",
+			"field",
+			"备注",
+			"goods_number",
+			"isset($_POST['attr_value_list']))",
+			"attr_value_list_arr",
+			"empty($_POST['attr_id_list']",
+			"attr_id_list",
+			"add(",
+			"超市信息",
+			"view",
+			"通知店长",
+			"send_notice",
+			"send_message",
+			"send_notice",
+			"url_taobao",
+			"goods_name",
+			"url_taobao",
+			"category_name",
+			"attr_price",
+			"attr_value",
+			"attr_id",
+			"data",
+			"getGoodsAttr_2",
+			"getGoodsTypeAttrForm",
+			"edit",
+			"s",
+			"send_notice",
+			"send",
+			"taskCount",
+			"订单消息",
+			"send_notice",
+			"createOrder",
+			"getBatchOrderInfo",
+			"send_notice",
+			"orderId",
+			"send_notice",
+			"noticecount",
+			"订单",
+			"send_notice",
+			"jquery.easyui.jkcms.js",
+			"arr",
+			"ipt_num",
+			"ajaxLoadGoods",
+			"goodsList",
+			"input_number",
+			"field",
+			"                    ",
+			"consignee_address",
+			";\n",
+			"addToGoods",
+			"$.post(url,",
+			"if(res.success == 0){\n                        $.messager.alert(\"提示\", res.message,'');",
+			"backend",
+			"修改密码",
+			"editors",
+			"gotoCell",
+			"enableCellEditing",
+			"JKTabs",
+			"send_notice",
+			"createOrder",
+			"send_notice",
+			"createOrder",
+			"send_notice",
+			"taskCount",
+			"title",
+			"self",
+			"nodename",
+			"fnReload",
+			"刷新",
+			"新",
+			"刷新",
+			"onBeforeClose",
+			"getSelected",
+			"editor",
+			"onDblClickCell",
+			"sing",
+			"dou"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "a.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mikaigit.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
